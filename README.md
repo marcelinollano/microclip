@@ -15,7 +15,7 @@ Here are some samples taken using [Camera+](http://campl.us). A green leaf, a fi
 
 ![Samples of Photos](https://raw.github.com/marcelinollano/microclip/master/samples.png)
 
-If you want something to use in a classroom probably the other design is better, you will get better images and more image quality. But if you want something to play around and keep on you backpack I think this could be better.
+If you want something to use in a classroom probably the other design is better, you will get better images and better image quality. But if you want something to play around and keep it on your backpack I think this could work for you.
 
 Just download the source files under the `files` folder and customize it. I used an [Ultimaker](http://ultimaker.com) and [Cura](http://software.ultimaker.com) with the best quality setting. It took around 20 minutes to print and then I glued the lens to the plastic, but you may have to adjust the diameter of the hole. If you have an iPhone 5+ I am sorry, you will have to model it yourself. I will not sell these either, this is just a weekend project hack.
 
