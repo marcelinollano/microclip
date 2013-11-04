@@ -5,7 +5,7 @@ OK, so I do not know if you read [this great hack that was published on Instruct
 
 One of my favourite gadgets for the iPhone 4S is the [olloclip](http://www.olloclip.com) so I though about doing based upon the same idea but using this lens to have a microscope instead of a macro/fish-eye/wide lens. If you want those [get an olloclip](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=olloclip&linkCode=ur2&tag=marcellano-20).
 
-I broke an old laser pointer to check if it really worked (you can get yours for [almost nothing](http://www.amazon.com/gp/product/B005KSHXEI/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005KSHXEI&linkCode=as2&tag=marcellano-20)). Turns out laser pointers need lens [to narrow down the beam](https://en.wikipedia.org/wiki/Collimator) and we can use that to build a crappy and fun microscope too. I watched [the video on YouTube](https://www.youtube.com/watch?v=KpMTkr_aiYU) and I got the idea that it was quite big and I don't have a drill nor plexiglass at home. But I do have a 3D printer. 
+I broke an old laser pointer to check if it really worked (you can get yours for [almost nothing](http://www.amazon.com/gp/product/B005KSHXEI/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005KSHXEI&linkCode=as2&tag=marcellano-20)). Turns out laser pointers need lens [to narrow down the beam](https://en.wikipedia.org/wiki/Collimator) and we can use that to build a crappy and fun microscope too. [I watched the video on YouTube](https://www.youtube.com/watch?v=KpMTkr_aiYU) and it all seemed quite big and also I did not have a drill nor plexiglass at home. But I do have a 3D printer. 
 
 ![3D Print of the Microclip](https://raw.github.com/marcelinollano/microclip/master/print.png)
 
