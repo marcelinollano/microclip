@@ -11,7 +11,7 @@ I broke an old laser pointer to check if it really worked (you can get yours for
 
 The result is more compact and portable, but you will need to hold steady the iPhone because the bigger the zoom increment the harder is to focus. Also, you will need some extra light to see the details or just use it against the window on a clear day.
 
-Here are some samples taken using [Camera+](http://campl.us) in hipster-scope, green leaf, finger joint and fingerprint:
+Here are some samples taken using [Camera+](http://campl.us) a green leaf, a finger joint and a fingerprint (all in hipster-scope):
 
 ![Samples of Photos](https://raw.github.com/marcelinollano/microclip/master/samples.png)
 
