@@ -3,7 +3,7 @@ Microclip
 
 OK, so I do not know if you read [this great hack that was published on Instructables](http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/) and promoted on [Hacker News](https://news.ycombinator.com/item?id=6624995) a while ago. The basic idea is that inside of a laser pointer there is a lens that could be used as a microscope. Pretty neat. 
 
-One of my favourite gadgets for the iPhone 4S is the [olloclip](http://www.olloclip.com) so I though about doing based upon the same idea but using this lens to have a microscope instead of a macro/fish-eye/wide lens. If you want those [I recommend you to get an olloclip](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=olloclip&linkCode=ur2&tag=marcellano-20).
+One of my favourite gadgets for the iPhone 4S is the [olloclip](http://www.olloclip.com) so I though about doing based upon the same idea but using this lens to have a microscope instead of a macro/fish-eye/wide lens. If you want those [get an olloclip](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=olloclip&linkCode=ur2&tag=marcellano-20).
 
 I broke an old laser pointer to check if it really worked (you can get yours for [almost nothing](http://www.amazon.com/gp/product/B005KSHXEI/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005KSHXEI&linkCode=as2&tag=marcellano-20)). Turns out laser pointers need lens [to narrow down the beam](https://en.wikipedia.org/wiki/Collimator) and we can use that to build a crappy and fun microscope too. I watched [the video on YouTube](https://www.youtube.com/watch?v=KpMTkr_aiYU) and I got the idea that it was quite big and I don't have a drill nor plexiglass at home. But I do have a 3D printer. 
 
