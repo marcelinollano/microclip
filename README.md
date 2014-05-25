@@ -20,6 +20,6 @@ Just download the source files under the `files` folder and customize it. I used
 
 ### Conclusions
 
-It is amazing that this thing actually works. It has a problem though. You really need to be still to get the lens to focus and see something. I have to take lots of photos just to get one that looks right. I like that I can take with me this lens instead of the original design, but it makes sense to have something sit on a table for the stability.
+It is amazing that this thing actually works. It has a problem though. You really need to be still to get the lens to focus and see something. I have to take lots of photos just to get one that looks right. I like that I can take with me this lens instead of the original design, but it makes sense to have something that sits on a table for the stability and easier focus.
 
-Anyway, all of that is not a deal breaker. It is really nice to have a sort of microscope in your pocket. Lets go explore the micro-world!
+Anyway, lets go explore the micro-world!
